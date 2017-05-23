@@ -1,2 +1,3 @@
 # hello-world
-just for fun
+
+Hi！I am new here!
